@@ -1,1 +1,19 @@
 # itmo-556
+
+
+
+## Where are you from?
+
+From the Chicago suburbs, Wood dale 25 miles from Mies Campus
+
+## IT Interest
+
+My background is from business management and also did graduation in supply chain management. Focus of the study is to combine Networking and supply chain management skills and bring something new and unique that could benefit distribution industries.
+
+## Something Interesting About You
+
+Problem finder and a solution provider. I believe that every problem has a solution and instead of crying what you did, i try to solve it and learn from my mistakes. Skilled experienced individual that has 2 years experience in inventory management, 2 years experience of customer support, 1 year experience of import & export and 1 year experience of quality control. spend my free time in playing games, almost played every game since i was 10 years old i got my first computer Pentium 1. Played doom, duke nuken 3D, quake, blood etc. Dota 2 and Counter strike my favourite. Future Plan: From the start i have very much interest in Netoworking try to play with different router, hack neighbour's wifi and have my own customer hardware kit :D.
+
+## Git-IT Tutorial Badge
+
+![Git Tutorial](images/badge.png "Result")

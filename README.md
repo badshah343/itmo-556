@@ -1,6 +1,6 @@
 # itmo-556
 
-![Family](https://imgur.com/a/r5x2sOf")
+
 
 ## Where are you from?
 

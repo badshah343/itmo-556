@@ -1,5 +1,5 @@
 # itmo-556
-(https://github.com/badshah343/images/Profile.jpeg)
+https://github.com/badshah343/images/Profile.jpeg
 
 
 ## Where are you from?

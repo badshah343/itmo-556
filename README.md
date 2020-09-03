@@ -16,4 +16,4 @@ Problem finder and a solution provider. I believe that every problem has a solut
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](images/badge.png "Result")
+![Challenges](https://user-images.githubusercontent.com/70233671/92157028-77237300-edef-11ea-90ef-d26f69d37d71.JPG)
